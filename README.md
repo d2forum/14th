@@ -165,7 +165,7 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 字节跳动前端工程师 艾石光 讲微前端沙盒：如果不做沙盒，微前端就是微开发的单体服务，不能实现真的微服务。
 
-本话题 PPT 正在产出中，敬请期待。
+[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%B2%99%E7%9B%92%E4%BD%93%E7%B3%BB--%E8%89%BE%E7%9F%B3%E5%85%89.pdf)
 
 
 
@@ -437,7 +437,7 @@ Google Docs 的多人实时协同编辑的功能，让稳坐办公套件头把�
 
 亨睿，阿里巴巴南京研发中心高级前端技术专家，从事新一代智能客户服务产品及服务人资管理线上化软件的研发工作，擅长大数据可视化及人机交互设计，正为我们解密 7 x 24 小时录屏背后的黑科技。
 
-本话题 PPT 正在产出中，敬请期待。
+[点此查看PPT地址](https://github.com/d2forum/14th/blob/master/PPT/%E3%80%8CD2%E4%B9%8B%E5%A4%9C%E3%80%8D7%20x%2024%20%E5%B0%8F%E6%97%B6%E5%BD%95%E5%B1%8F%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80--%E4%BA%A8%E7%9D%BF.pdf)
 
 
 
