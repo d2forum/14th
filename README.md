@@ -14,20 +14,6 @@
 
 
 
-## 一键获取所有 PPT
-
-如果你使用的是手机访问，不能直接打开单个 PPT 下载链接，你也可以识别下方二维码，关注 **Alibaba F2E** 微信公众号，回复「**PPT**」 即可获得第十四届 D2 前端技术论坛的所有 PPT 文件。
-
-![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/QRibyjewM1IDyNjH7utBYKcx4rU8TibvibUllx1z6XWibibibcZK1wPnoEQydCrlPhCl1IRpJrAGRxWEyUcIMToV4Afg/640?wx_fmt=jpeg)
-
-公众号后续也会推送 D2 部分视频，以及讲师分享的文章，敬请留意！
-
-
-如果你使用的是电脑浏览器，请继续阅读，我们在每个话题下面都留了下载链接，你可以挑选自己感兴趣的 PPT 逐个下载。
-
-
-
-
 ## 语言框架专场
 
 语言框架专场邀请了各个前端框架和编程语言领域的专家，为大家深度剖析语言产品过程的思考，也邀请了 TC39 的核心成员为大家深入解读标准背后的方方面面。
