@@ -3,6 +3,9 @@
 ![https://gw.alicdn.com/tfs/TB1lZaKnEH1gK0jSZSyXXXtlpXa-1394-555.png](https://gw.alicdn.com/tfs/TB1lZaKnEH1gK0jSZSyXXXtlpXa-1394-555.png)
 
 大会官网：[d2forum.alibaba-inc.com](http://d2forum.alibaba-inc.com/14#/index?_k=s1tb5i)
+现场花絮：[第十四届 D2 前端技术论坛花絮视频](https://v.youku.com/v_show/id_XNDQ3MzQ4OTk1Ng==.html?spm=a2h4v.8841035.uerCenter.5!3~5~5!2~DL~DD~A&firsttime=135.60)
+开场视频：[第十四届 D2 前端技术论坛讲师风采](https://v.youku.com/v_show/id_XNDQ3NDcyMzAwOA==.html?spm=a2hbt.13141534.app.5~5~5!2~5~5~5!2~5~5!2~5!2~5!2~5~5~A)
+历史回顾：[D2 前端技术论坛历史回顾](https://v.youku.com/v_show/id_XNDQ3NDc5MTUyNA==.html?spm=a2h3j.8428770.3416059.1)
 
 12 月 14 日，第十四届 D2 前端技术论坛在杭州圆满举办。来自全国各地的近千名开发者齐聚杭州，聆听 3 大会场、来自 24 位海内外嘉宾的 21 个主题分享。
 
