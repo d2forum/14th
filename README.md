@@ -108,8 +108,8 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 阿里巴巴数据技术专家 言顾 介绍数据分析的人工智能画板——马良，一款极大提高用户数据可视设计能力、突破模板限制、轻松创造属于自己个性化大屏的产品。
 
-[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%BB%E6%9D%BF%20%E2%80%93%20%E9%A9%AC%E8%89%AF%20--%20%E8%A8%80%E9%A1%BE.pdf)
-[现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484206&idx=1&sn=7d315957f641612b31521b3172cc0ba5&chksm=cf5b1cb2f82c95a4966b04c402904fcc90bf64878f5c66dcb7dbb3e6fe8f72e987d9dceebc2e&token=763804821&lang=zh_CN#rd)
+- [点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%BB%E6%9D%BF%20%E2%80%93%20%E9%A9%AC%E8%89%AF%20--%20%E8%A8%80%E9%A1%BE.pdf)
+- [现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484206&idx=1&sn=7d315957f641612b31521b3172cc0ba5&chksm=cf5b1cb2f82c95a4966b04c402904fcc90bf64878f5c66dcb7dbb3e6fe8f72e987d9dceebc2e&token=763804821&lang=zh_CN#rd)
 
 
 
@@ -179,8 +179,8 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 阿里巴巴前端技术专家 上坡 和蚂蚁金服高级前端工程师 吭头 为我们带来基于支付宝小程序 IDE 等业务场景的实践沉淀，了解 IDE 领域现阶段的发展趋势，以及相关 IDE 领域相关的技术设计原理与在业务上的运用实践。
 
-[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/D2%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%8B%E4%B8%80%E7%AB%99%20IDE%20%E2%80%94%E2%80%94%E4%B8%8A%E5%9D%A1%26%E5%90%AD%E5%A4%B4.pdf)
-[现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484085&idx=1&sn=7355ed883f72321a6c5ba18f565b4986&chksm=cf5b1d29f82c943f9864656ac665ab2cf2234a1df0d390684b04289ada4761f8dee1be5e05c5&token=763804821&lang=zh_CN#rd)
+- [点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/D2%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%8B%E4%B8%80%E7%AB%99%20IDE%20%E2%80%94%E2%80%94%E4%B8%8A%E5%9D%A1%26%E5%90%AD%E5%A4%B4.pdf)
+- [现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484085&idx=1&sn=7355ed883f72321a6c5ba18f565b4986&chksm=cf5b1d29f82c943f9864656ac665ab2cf2234a1df0d390684b04289ada4761f8dee1be5e05c5&token=763804821&lang=zh_CN#rd)
 
 
 
@@ -208,8 +208,8 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 蚂蚁金服前端技术专家 玄寂 为我们带来一套完全基于浏览器技术实现的预览和调试解决方案—— Gravity. Gravity 非常轻量化，对服务端 0 要求，对用户 0 配置，任何可视化编辑器，和 Cloud IDE 都可以基于 Gravity 的插件能力快速集成。
 
-[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E5%9F%BA%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E5%AE%9E%E6%97%B6%E6%9E%84%E5%BB%BA%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF--%E7%8E%84%E5%AF%82.pdf)
-[现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484063&idx=1&sn=d4f4083d4088a46885cc13e5c8845223&chksm=cf5b1d03f82c94151f5322a286892134e141a91c50cf605feb9e40fd16c0ac0130a960bc1f43&token=763804821&lang=zh_CN#rd)
+- [点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E5%9F%BA%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E5%AE%9E%E6%97%B6%E6%9E%84%E5%BB%BA%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF--%E7%8E%84%E5%AF%82.pdf)
+- [现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484063&idx=1&sn=d4f4083d4088a46885cc13e5c8845223&chksm=cf5b1d03f82c94151f5322a286892134e141a91c50cf605feb9e40fd16c0ac0130a960bc1f43&token=763804821&lang=zh_CN#rd)
 
 
 
@@ -274,8 +274,8 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 阿里巴巴前端技术专家 张挺，带领我们一起看 Serverless 体系下全新的框架、工具链和研发模式是什么样的。
 
-[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/Serverless%20%E4%B8%8B%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7--%E5%BC%A0%E6%8C%BA.pdf)
-[现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484139&idx=1&sn=3ce519216a1fdca00253535774523fc3&chksm=cf5b1d77f82c94616e66252e4ee8d19b43aa0f8e625914d9432b492eab8880c7568da178306f&token=763804821&lang=zh_CN#rd)
+- [点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/Serverless%20%E4%B8%8B%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%8D%87%E7%BA%A7--%E5%BC%A0%E6%8C%BA.pdf)
+- [现场分享文字版本（附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484139&idx=1&sn=3ce519216a1fdca00253535774523fc3&chksm=cf5b1d77f82c94616e66252e4ee8d19b43aa0f8e625914d9432b492eab8880c7568da178306f&token=763804821&lang=zh_CN#rd)
 
 
 
