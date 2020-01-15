@@ -6,12 +6,9 @@
 - 现场花絮：[第十四届 D2 前端技术论坛花絮视频](https://v.youku.com/v_show/id_XNDQ3MzQ4OTk1Ng==.html?spm=a2h4v.8841035.uerCenter.5!3~5~5!2~DL~DD~A&firsttime=135.60)
 - 开场视频：[第十四届 D2 前端技术论坛讲师风采](https://v.youku.com/v_show/id_XNDQ3NDcyMzAwOA==.html?spm=a2hbt.13141534.app.5~5~5!2~5~5~5!2~5~5!2~5!2~5!2~5~5~A)
 - 历史回顾：[D2 前端技术论坛历史回顾](https://v.youku.com/v_show/id_XNDQ3NDc5MTUyNA==.html?spm=a2h3j.8428770.3416059.1)
+- 大会现场视频集锦：[第十四届 D2 前端技术论坛现场演讲视频](https://list.youku.com/albumlist/show/id_52355444?spm=a2h9p.12366999.app.SECTION~MAIN~SECTION~MAIN~5~5!2~5~5~5~5~A)
 
 12 月 14 日，第十四届 D2 前端技术论坛在杭州圆满举办。来自全国各地的近千名开发者齐聚杭州，聆听 3 大会场、来自 24 位海内外嘉宾的 21 个主题分享。
-
-
-今天，我们整理了价值连城的完整 PPT, 在这里一次性送出，欢迎大家下载学习！
-
 
 
 ## 语言框架专场
@@ -22,7 +19,7 @@
 
 
 
-### Let's Work Together On The Future Of JavaScript Through TC3
+### Let's Work Together On The Future Of JavaScript Through TC39
 
 
 
@@ -143,7 +140,8 @@ Google TensorFlow.js Core team 成员 王铁震 为我们介绍 TensorFlow.js �
 
 蚂蚁金服前端专家 有知 分享蚂蚁金融云产品上云标准——一套完整的一体化解决方案。
 
-[点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E6%A0%87%E5%87%86%E5%BE%AE%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%9C%A8%E8%9A%82%E8%9A%81%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5--%E6%9C%89%E7%9F%A5.pdf)
+- [点此查看 PPT 地址](https://github.com/d2forum/14th/blob/master/PPT/%E6%A0%87%E5%87%86%E5%BE%AE%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%9C%A8%E8%9A%82%E8%9A%81%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5--%E6%9C%89%E7%9F%A5.pdf)
+- [现场分享文字版本（内附演讲视频）](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484246&idx=1&sn=fb3fabb3e7b6b3169289fe709de9c0fd&chksm=cf5b1ccaf82c95dcb692e2ed4c246944f73057573b29f1be2b7cd8caa720f6dc9254871a5980&token=1943382045&lang=zh_CN#rd)
 
 
 
